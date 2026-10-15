@@ -1,7 +1,7 @@
 # InfoMed_TP4_G5
 
 <p align="center">
-  <img src="imagenes/logo_itba.png" alt="Logo ITBA" width="250">
+  <img src="LOGO ITBA.png" alt="Logo ITBA" width="250">
 </p>
 
 <h1 align="center">Trabajo Práctico 4: Bases de Datos con SQL y Manejo de Versiones con GitHub</h1>
