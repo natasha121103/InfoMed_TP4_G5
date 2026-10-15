@@ -1,12 +1,13 @@
 # InfoMed_TP4_G5
+
 <p align="center">
   <img src="imagenes/logo_itba.png" alt="Logo ITBA" width="250">
 </p>
 
-<h1 align="center">Trabajo Práctico 4: Bases de Datos con SQL</h1>
+<h1 align="center">Trabajo Práctico 4: Bases de Datos con SQL y Manejo de Versiones con GitHub</h1>
 
 <p align="center">
-  <b>Informática Médica</b><br>
+  <b>16.22 - Informática Médica</b><br>
   Instituto Tecnológico de Buenos Aires (ITBA)
 </p>
 
@@ -14,15 +15,26 @@
 
 ## Integrantes
 
-- [Nombre y Apellido 1]
-- [Nombre y Apellido 2]
-- [Nombre y Apellido 3]
+- 64422 - Natasha Alexandra Kim
+- 64436 - Juana Rives
+- 64376 - Leila Sol Winkler
+
 
 ## Materia y docentes
 
 - **Materia:** Informática Médica
-- **Docentes:** [Nombre y Apellido de la profesora 1] y [Nombre y Apellido de la profesora 2]
-- **Año / Cuatrimestre:** [2026 - 2do cuatrimestre]
+- **Docentes:**
+  - Carlos  Lazzarino
+  - Melina Leonor Piacentino Castaño,
+  - Ingrid Celia Spessotti
+- **Año:** 2026 - 2do cuatrimestre
+
+
+
+
+
+**Esto no se si lo voy a dejar ---------------------------------
+
 
 ## Descripción del trabajo
 
